@@ -3,7 +3,6 @@
     <div id="cover"></div>
     <Header></Header>
     <todo></todo>
-    <Footer></Footer>
   </div>
 </template>
 
